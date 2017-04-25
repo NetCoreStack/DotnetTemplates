@@ -1,0 +1,12 @@
+{
+  "author": "Hisar",
+  "classifications": [ "Web" ],
+  "name": "Hisar Component",
+  "identity": "Hisar.Component.Template",
+  "shortName": "hisar-com", // You can create the project using this short name instead of the one above.
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "Hisar.Component.Template", // Will replace the string 'Hisar.Component.Template' with the value provided via -n.
+  "preferNameDirectory": "true"
+}

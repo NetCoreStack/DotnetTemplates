@@ -1,0 +1,13 @@
+﻿@using static Hisar.Component.Template.ComponentHelper
+
+<h1 id="componentName">Sample Component</h1>
+<div class="row">
+    <img src="@Content(Url, "~/img/banner1.svg")" />
+    <hr />
+    <a class="btn btn-default" href="@Url.Action("registration", "home")">Go To Registration</a>
+</div>
+<hr />
+@await Component.InvokeAsync("Sample")
+<hr />
+@ViewBag.StrProperty
+<hr />
