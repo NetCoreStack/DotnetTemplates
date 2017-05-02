@@ -20,8 +20,8 @@ namespace Hisar.Component.Template
 			["Microsoft.Extensions.Logging.Debug"] = "1.1.1",
 			["Microsoft.Extensions.Options.ConfigurationExtensions"] = "1.1.1",
 			["Microsoft.Extensions.Configuration.CommandLine"] = "1.1.1",
-			["NetCoreStack.Hisar"] = "1.0.0-preview-192",
-			["NetCoreStack.Hisar.Server"] = "1.0.0-preview-192",
+			["NetCoreStack.Hisar"] = "1.0.0-preview-204",
+			["NetCoreStack.Hisar.Server"] = "1.0.0-preview-204",
 			["NetCoreStack.WebSockets.ProxyClient"] = "1.0.1"
 
         };
